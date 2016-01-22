@@ -10,6 +10,7 @@ public class C extends A {
 		System.out.println(cc.b);
 		System.out.println(cc.c);
 		System.out.println(cc.d);
+		System.out.println(cc.b);
 	}
 
 }
